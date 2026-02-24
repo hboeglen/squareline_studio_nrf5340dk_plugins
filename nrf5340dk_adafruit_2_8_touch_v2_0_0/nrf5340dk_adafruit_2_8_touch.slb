@@ -16,7 +16,7 @@
     "lvgl_export_path": "./src",
     "lvgl_include_path": "lvgl.h",
     "language":"C",
-    "supported_lvgl_version": "9.1.*",
+    "supported_lvgl_version": "9.*",
     "pattern_match_files": "CMakeLists.txt",
     "ui_export_path":"./src/ui/",
     "flat_export": false,
